@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+}
+header {
+  margin-bottom: 64px;
+}
+h1 {
+  font-family: "Oswald", sans-serif;
+  color: rgb(175, 45, 158);
+  font-size: 48px;
+}
+
+#description {
+  margin-bottom: 12px 0;
+}
+
+/* header p {
+  margin-bottom: 36px;
+} */
+p {
+  font-family: "Red Hat Mono", sans-serif;
+  color: rgb(12, 43, 102);
+  font-size: large;
+  font-weight: bold;
+}
+#idi-nazad {
+  background-color: rgb(62, 107, 136);
+  font-size: 15px;
+}
+a {
+  text-decoration: none;
+  color: rgb(41, 197, 171);
+  background-color: rgb(167, 1, 78);
+  border: 8px solid rgb(167, 1, 78);
+  border-radius: 5px;
+  padding: 12px 48px;
+  display: inline-block;
+  margin: 0px;
+  font-family: "Fira sans", sans-serif;
+}
+a:hover {
+  font-style: italic;
+  /* text-decoration-line: underline; */
+  color: rgb(210, 214, 221);
+  background-color: rgb(110, 53, 201);
+  border-color: transparent;
+}
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+  padding: 0;
+}
+li {
+  padding: 16px;
+  margin: 32px;
+  background-color: rgb(223, 136, 124);
+  border-radius: 6px;
+  box-shadow: 5px 5px 8px rgb(0, 0, 0, 0.5);
+}
+h2 {
+  color: rgb(78, 13, 5);
+  font-family: "Oswald", sans-serif;
+}
+main p {
+  margin: 12px;
+  color: rgb(71, 29, 22);
+}
+.higlight-goal {
+  background-color: rgb(184, 85, 72);
+}
